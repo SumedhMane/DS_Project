@@ -1,3 +1,5 @@
+REAL ESTATE PRICE PREDICTION USING MACHINE LEARNING AND DATA SCIENCE
+
 ![Screenshot (864)](https://github.com/SumedhMane/DS_Project/assets/112798190/ae7f91f4-8de7-4b59-9a6b-60572d68ba12)
 
 ![Screenshot (865)](https://github.com/SumedhMane/DS_Project/assets/112798190/b6275b6c-de6b-46c8-9ad1-9c8b7ecfceb7)
